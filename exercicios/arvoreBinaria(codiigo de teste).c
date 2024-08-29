@@ -1,3 +1,5 @@
+//André de Lima Michalsky
+
 #include <stdio.h>
 #include <stdlib.h>
 
